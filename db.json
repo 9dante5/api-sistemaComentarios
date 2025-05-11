@@ -1,0 +1,65 @@
+{
+  "comentarios": [
+    {
+      "id": "575c6349-db43-4157-8273-b67c8bec765a",
+      "nombre": "andres",
+      "fechaPublicacion": "Mayo/10/2025",
+      "horaPublicacion": "10:42",
+      "organizar": 1746891748000,
+      "comentario": "mi primer comentario",
+      "comentarioPadre": "",
+      "comentariosHijos": [
+        "b79c6344-7d13-4adb-8f6c-69fed621553e"
+      ],
+      "meGusta": 3
+    },
+    {
+      "id": "b79c6344-7d13-4adb-8f6c-69fed621553e",
+      "nombre": "felipe",
+      "fechaPublicacion": "Mayo/10/2025",
+      "horaPublicacion": "10:43",
+      "organizar": 1746891826000,
+      "comentario": "estoy respondiendo",
+      "comentarioPadre": "575c6349-db43-4157-8273-b67c8bec765a",
+      "comentariosHijos": [
+        "ede84280-5ab6-426f-ae68-683830adfa95"
+      ],
+      "meGusta": 0
+    },
+    {
+      "id": "8545b8c8-2a58-4de0-9734-dfa65fe34aeb",
+      "nombre": "sdafsd",
+      "fechaPublicacion": "Mayo/10/2025",
+      "horaPublicacion": "10:43",
+      "organizar": 1746891837000,
+      "comentario": "ksaldjflksjdf",
+      "comentarioPadre": "",
+      "comentariosHijos": [],
+      "meGusta": 0
+    },
+    {
+      "id": "ede84280-5ab6-426f-ae68-683830adfa95",
+      "nombre": "kdsjflksajklfjl",
+      "fechaPublicacion": "Mayo/10/2025",
+      "horaPublicacion": "10:44",
+      "organizar": 1746891884000,
+      "comentario": "slkdfjlsdkjflksdf",
+      "comentarioPadre": "b79c6344-7d13-4adb-8f6c-69fed621553e",
+      "comentariosHijos": [
+        "d9ce3915-1d88-4093-8b85-67cb33672241"
+      ],
+      "meGusta": 0
+    },
+    {
+      "id": "d9ce3915-1d88-4093-8b85-67cb33672241",
+      "nombre": "dasfjlksdjflksdajfkl",
+      "fechaPublicacion": "Mayo/10/2025",
+      "horaPublicacion": "10:45",
+      "organizar": 1746891922000,
+      "comentario": "lksjflkdsjflksdjflsd",
+      "comentarioPadre": "ede84280-5ab6-426f-ae68-683830adfa95",
+      "comentariosHijos": [],
+      "meGusta": 0
+    }
+  ]
+}
